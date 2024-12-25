@@ -1,0 +1,38 @@
+[
+  {
+    "Text": "апрпарапр",
+    "Points": 1,
+    "Answers": [
+      {
+        "Text": "ара",
+        "IsCorrect": true
+      },
+      {
+        "Text": "ар",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Ответ 1",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Введите ответ",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Введите ответ",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Text": "арапрапр",
+    "Points": 1,
+    "Answers": [
+      {
+        "Text": "Ответ 1",
+        "IsCorrect": false
+      }
+    ]
+  }
+]
